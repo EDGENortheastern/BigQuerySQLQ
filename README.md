@@ -12,6 +12,8 @@ BigQuery introduction to SQL questions
 
 3. Find the public datasets (you may have to search data sets for `bigquery-public-data`)
 
-## Evaluate expressions
+## Part 1. Evaluate expressions
 
-1. Raise 25 to the power of 12 ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#pow)
+1. Raise 25 to the power of 12 ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#pow))
+2. Find the remainder of 25 divided by 2 ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#mod))
+3. 
