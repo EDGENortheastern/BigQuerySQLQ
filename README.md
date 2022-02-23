@@ -16,4 +16,5 @@ BigQuery introduction to SQL questions
 
 1. Raise 25 to the power of 12 ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#pow))
 2. Find the remainder of 25 divided by 2 ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#mod))
-3. 
+3. How many whole times can 12 fit into 25 (integer division) ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#div))
+4. What is the FLOOR of 3.77? ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#floor))
