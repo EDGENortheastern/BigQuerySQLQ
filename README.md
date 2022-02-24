@@ -14,6 +14,12 @@ BigQuery introduction to SQL questions
 
 ## Part 1. Evaluate expressions
 
+The main idea of this task is to run soome BigQuery queries written in [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/syntax). So, you *do not have* to save your queries on GitHub. However, if you want to, make a copy of this README and use backticks to make codeblocks, e.g.,:
+
+```sql
+SELECT LEFT("Hello world", 2); --selects the left two characters of "Hello world": "He"
+```
+
 > use BigQuery (yes, you absolutely must use an enterpirse data warehouse for those advanced calculations 😀) and Standard SQL (`SELECT`) to calculate the following:
 
 1. Raise 25 to the power of 12 ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#pow))
@@ -24,3 +30,4 @@ BigQuery introduction to SQL questions
 6. What is the ceil of 2.111? ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#ceil)
 7. Round 2.34567837 to 3 decimal places. ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#round))
 8. Turn DATA to lower case ([docs](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#lower))
+9. Selects the last three characters of "SQL is life😀" ([
