@@ -50,3 +50,7 @@ SELECT LEFT("Hello world", 2); --selects the left two characters of "Hello world
 
 ## Part 5. `WHERE`
 
+1. Get all male names from `bigquery-public-data.usa_names.usa_1910_current`
+2. Get all female names from `bigquery-public-data.usa_names.usa_1910_current`
+3. Count male names from `bigquery-public-data.usa_names.usa_1910_current`
+4. Count female names from `bigquery-public-data.usa_names.usa_1910_current`
