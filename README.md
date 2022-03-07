@@ -54,3 +54,6 @@ SELECT LEFT("Hello world", 2); --selects the left two characters of "Hello world
 2. Get all female names from `bigquery-public-data.usa_names.usa_1910_current`
 3. Count male names from `bigquery-public-data.usa_names.usa_1910_current`
 4. Count female names from `bigquery-public-data.usa_names.usa_1910_current`
+5. Get all **male** American names that begin with "X"
+
+
